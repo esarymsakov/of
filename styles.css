@@ -1117,7 +1117,7 @@ button:hover {
     }
 
     .footer-nav {
-        margin-top: 120px;
+        margin-top: 50px;
     }
 
     .footer-icons {
@@ -1128,6 +1128,10 @@ button:hover {
     .footer-info {
         width: auto;
         height: auto;
+    }
+
+    .res-link, .nav-link {
+        margin: 15px 0;
     }
 }
 

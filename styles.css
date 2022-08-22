@@ -613,6 +613,20 @@ button:hover {
 .customers-mini-photos {
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.customers-mini-photos img {
+    border: 2px solid #F3FBF8;
+    border-radius: 100px;
+}
+
+.customers-mini-photos img:hover, .more-icon:hover {
+    border: 2px solid #ec3a3a;
+    box-shadow: 0 0 3px #ec3a3a;
+    transition: 0.2s;
+
 }
 
 .customer1 {
@@ -645,6 +659,8 @@ button:hover {
     justify-content: center;
     align-items: center;
     z-index: 6;
+    border: 2px solid #F3FBF8;
+    border-radius: 100px;
     margin-left: -10px;
 }
 
@@ -764,3 +780,6 @@ button:hover {
 .footer-contacts {
     margin: 16px 0;
 }
+
+/*-----------------------------------------RESPONSIVE----------------------------------------*/
+

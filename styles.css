@@ -794,6 +794,15 @@ button:hover {
     margin: 16px 0;
 }
 
+.powered-by p {
+    font-size: 14px;
+}
+
+.powered-by {
+    display: flex;
+    justify-content: center;
+}
+
 /*-----------------------------------------RESPONSIVE----------------------------------------*/
 
 @media screen and (min-width: 320px) and (max-width: 424.85px) {

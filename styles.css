@@ -799,7 +799,7 @@ button:hover {
 @media screen and (min-width: 320px) and (max-width: 424.85px) {
     h1 {
         margin: 0;
-        font-size: 50px;
+        font-size: 45px;
         line-height: 60px;
     }
 
@@ -820,7 +820,7 @@ button:hover {
         right: 0;
         background-color: unset;
         border: 0;
-        color: #ec3a3a;
+        color: #09A66D;
         font-size: 28px;
         margin: 0;
         z-index: 20;

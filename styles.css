@@ -1122,7 +1122,8 @@ button:hover {
     }
 
     .footer-info {
-        padding-right: 15px;
+        width: auto;
+        height: auto;
     }
 }
 

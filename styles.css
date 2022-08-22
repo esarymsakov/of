@@ -557,7 +557,7 @@ button:hover {
 /*---testimonials rating box---*/
 
 .stars i {
-    color: yellow;
+    color: #F3D032;
 }
 
 .testimonials-buttons {
@@ -795,7 +795,7 @@ button:hover {
 }
 
 .powered-by p {
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .powered-by {
